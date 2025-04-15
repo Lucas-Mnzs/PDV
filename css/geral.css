@@ -28,6 +28,7 @@ footer {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  box-shadow: -3px -3px 10px rgba(0, 0, 0, 0.6);
 }
 
 i {
@@ -83,4 +84,18 @@ i {
 
 .header-search input:focus {
   border: 1px solid white;
+}
+
+.icon-prin {
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.icon-prin i {
+  color: black;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
 }
