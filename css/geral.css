@@ -52,7 +52,7 @@ i {
 .header-title {
   display: flex;
   align-items: center;
-  width: 45%;
+  width: 125px;
   justify-content: space-between;
 }
 
