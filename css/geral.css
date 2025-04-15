@@ -59,10 +59,7 @@ i {
 
 .header-icon {
   position: absolute;
-  right: 12.5px;
-  width: 80px;
-  display: flex;
-  justify-content: space-between;
+  right: 10px;
 }
 
 .header-icon i {
