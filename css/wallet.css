@@ -1,0 +1,6 @@
+.header-title {
+  display: flex;
+  align-items: center;
+  width: 120px;
+  justify-content: space-between;
+}
